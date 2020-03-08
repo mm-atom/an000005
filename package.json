@@ -37,7 +37,14 @@
 	],
 	"license": "MIT",
 	"dependencies": {},
+	"peerDependencies": {
+		"@mmstudio/aw00004": "*",
+		"@mmstudio/config": "*",
+		"@mmstudio/invoke": "*"
+	},
 	"devDependencies": {
+		"@mmstudio/config": "latest",
+		"@mmstudio/invoke": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
 		"ava": "latest",
