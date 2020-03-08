@@ -38,7 +38,7 @@
 	"license": "MIT",
 	"dependencies": {},
 	"peerDependencies": {
-		"@mmstudio/aw00004": "*",
+		"@mmstudio/aw000004": "*",
 		"@mmstudio/config": "*",
 		"@mmstudio/invoke": "*"
 	},
