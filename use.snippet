@@ -1,6 +1,6 @@
 	// 调用nodejs服务
 	const r$CURRENT_SECONDS_UNIX = await(() => {
-		const service_name = $1;	// 服务名称
-		const msg = $2;	// 参数
-		return an5<$0>(service_name, msg, ${3|actionid,mm.data.actionid|});
+		const service_name = $2;	// 服务名称
+		const msg = $3;	// 参数
+		return an5<$0>(service_name, msg, ${1|actionid,mm.data.actionid|});
 	})();
