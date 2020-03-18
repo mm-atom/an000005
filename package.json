@@ -40,8 +40,7 @@
 		"@mmstudio/invoke": "1.1.202003181231"
 	},
 	"peerDependencies": {
-		"@mmstudio/aw000004": "*",
-		"@mmstudio/config": "*"
+		"@mmstudio/aw000004": "*"
 	},
 	"devDependencies": {
 		"@mmstudio/config": "latest",
