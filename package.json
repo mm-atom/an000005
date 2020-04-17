@@ -41,7 +41,7 @@
 	],
 	"license": "MIT",
 	"dependencies": {
-		"@mmstudio/invoke": "1.1.202003181231"
+		"@mmstudio/invoke": "1.1.202003191022"
 	},
 	"peerDependencies": {
 		"@mmstudio/aw000004": "*"
@@ -55,7 +55,7 @@
 		"eslint": "latest",
 		"eslint-config-prettier": "latest",
 		"eslint-plugin-import": "latest",
-		"log4js": "^6.1.2",
+		"log4js": "latest",
 		"typescript": "next"
 	}
 }
