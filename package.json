@@ -43,9 +43,6 @@
 	"dependencies": {
 		"@mmstudio/invoke": "1.1.202003191022"
 	},
-	"peerDependencies": {
-		"@mmstudio/aw000004": "*"
-	},
 	"devDependencies": {
 		"@mmstudio/config": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
