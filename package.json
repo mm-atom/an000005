@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000005",
-	"version": "1.0.202004170808",
+	"version": "1.0.202011021113",
 	"description": "调用nodejs服务",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
